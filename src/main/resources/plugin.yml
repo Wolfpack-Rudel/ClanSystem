@@ -10,11 +10,11 @@ softdepend:
 loadbefore:
   - GriefPrevention
   - PlotSquared
-api-version: '1.13'
+api-version: '1.21'
 authors:
   - Phaed
   - RoinujNosde
-website: https://www.spigotmc.org/resources/simpleclans.71242/
+  - LouiLetsPlayPro
 permissions:
   simpleclans.admin.reload:
     description: Can reload configuration
