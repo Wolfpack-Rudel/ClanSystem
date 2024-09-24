@@ -3,7 +3,7 @@
     <groupId>net.sacredlabyrinth.phaed.simpleclans</groupId>
     <artifactId>SimpleClans</artifactId>
     <version>2.19.3-SNAPSHOT</version>
-    <name>SimpleClans</name>
+    <name>ClanSystem</name>
     <url>https://www.spigotmc.org/resources/simpleclans.71242/</url>
 
     <build>
