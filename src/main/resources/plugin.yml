@@ -1,4 +1,4 @@
-name: SimpleClans
+name: ClanSystem
 main: net.sacredlabyrinth.phaed.simpleclans.SimpleClans
 version: '${project.version}-${git.commit.id.describe-short}'
 softdepend:
